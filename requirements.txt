@@ -1,0 +1,7 @@
+fastapi==0.70.0
+uvicorn==0.15.0
+sqlalchemy==1.4.31
+psycopg2==2.9.2
+beautifulsoup4==4.10.0
+requests==2.26.0
+pydantic==1.9.0
